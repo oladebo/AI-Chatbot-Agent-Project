@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-The AI Chatbot Agent project demonstrates the development of an intelligent conversational assistant powered by Python and OpenAI Large Language Models (LLMs).
+This AI Chatbot Agent project demonstrates the development of an intelligent conversational assistant powered by Python and OpenAI Large Language Models (LLMs).
 
 The solution uses Python to manage user inputs, orchestrate interactions with the LLM, process requests, and generate meaningful responses. OpenAI provides the intelligence layer that understands user prompts and generates contextually relevant answers.
 
