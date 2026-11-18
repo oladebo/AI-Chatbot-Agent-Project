@@ -79,11 +79,8 @@ The chatbot displays the generated answer to the user, completing the conversati
 | Technology | Purpose |
 |------------|---------|
 | Python | Application development and orchestration
-
 | OpenAI API | Integration with the AI language model
-
 | OpenAI LLM | Natural language understanding and response generation
-
 | AI Agent Architecture | Managing conversational interactions
 
 
