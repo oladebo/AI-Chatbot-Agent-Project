@@ -86,67 +86,67 @@ The chatbot displays the generated answer to the user, completing the conversati
 
 #### End-to-End Workflow
 
-User Interaction: The user submits a prompt through the chatbot.
+- User Interaction: The user submits a prompt through the chatbot.
 
-Input Processing: Python receives the submitted prompt.
+- Input Processing: Python receives the submitted prompt.
 
-AI Orchestration: Python coordinates communication with the OpenAI LLM.
+- AI Orchestration: Python coordinates communication with the OpenAI LLM.
 
-LLM Processing: The language model interprets the request and generates a response.
+- LLM Processing: The language model interprets the request and generates a response.
 
-Response Transformation: Python receives and processes the generated output.
+- Response Transformation: Python receives and processes the generated output.
 
-Response Delivery: The chatbot displays the final response to the user.
+- Response Delivery: The chatbot displays the final response to the user.
 
-Continuous Interaction: The user can submit additional prompts and continue the conversation.
+- Continuous Interaction: The user can submit additional prompts and continue the conversation.
 
 #### Key Features
 
-AI-powered conversational interaction.
+- powered conversational interaction.
 
-Python-based application orchestration.
+- Python-based application orchestration.
 
-OpenAI LLM integration.
+- OpenAI LLM integration.
 
-Natural language prompt processing.
+- Natural language prompt processing.
 
-Automated response generation.
+- Automated response generation.
 
-End-to-end request and response management.
+- End-to-end request and response management.
 
-Extensible architecture for future AI agent capabilities.
+- Extensible architecture for future AI agent capabilities.
 
 #### Expected Business Benefits
 
-Improved user interaction through natural language conversations.
+- Improved user interaction through natural language conversations.
 
-Reduced manual effort in handling repetitive queries.
+- Reduced manual effort in handling repetitive queries.
 
-Faster response generation.
+- Faster response generation.
 
-Improved accessibility to information.
+- Improved accessibility to information.
 
-Foundation for intelligent business process automation.
+- Foundation for intelligent business process automation.
 
-Potential integration with enterprise data sources and business applications.
+- Potential integration with enterprise data sources and business applications.
 
 #### Future Enhancements
 
 The architecture can be extended with additional AI agent capabilities, including:
 
-Conversation Memory: Retain relevant information from previous interactions.
+- Conversation Memory: Retain relevant information from previous interactions.
 
-RAG (Retrieval-Augmented Generation): Connect the chatbot to enterprise documents and knowledge bases.
+- RAG (Retrieval-Augmented Generation): Connect the chatbot to enterprise documents and knowledge bases.
 
-Tool Calling: Enable the AI agent to interact with external APIs and business applications.
+- Tool Calling: Enable the AI agent to interact with external APIs and business applications.
 
-Database Integration: Retrieve and process structured business information.
+- Database Integration: Retrieve and process structured business information.
 
-Multi-Agent Architecture: Introduce specialized agents for different business tasks.
+- Multi-Agent Architecture: Introduce specialized agents for different business tasks.
 
-Streamlit Interface: Build an interactive web-based chatbot application.
+- Streamlit Interface: Build an interactive web-based chatbot application.
 
-Monitoring and Logging: Track chatbot interactions, errors, and performance.
+- Monitoring and Logging: Track chatbot interactions, errors, and performance.
 
 ### Project Conclusion
 
