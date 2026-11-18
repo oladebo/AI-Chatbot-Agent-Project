@@ -35,7 +35,10 @@ This project addresses these challenges by integrating Python with OpenAI LLM te
 ### Solution Architecture
 
 
-![image](https://github.com/oladebo/AI-Chatbot-Agent-Project/blob/24bf91d85e4fa30011e755591c2c22741201b73c/Screen%20Shot%202026-11-18%20at%2015.40.15.png)
+![image alt](https://github.com/oladebo/AI-Chatbot-Agent-Project/blob/24bf91d85e4fa30011e755591c2c22741201b73c/Screen%20Shot%202026-11-18%20at%2015.40.15.png
+
+
+![image alt](https://github.com/oladebo/AI-Chatbot-Agent-Project/blob/2208131580408351f9611b29d6494528a893689d/Screen%20Shot%202026-11-18%20at%2016.00.19.png)
 
 
 #### The architecture consists of three major layers:
