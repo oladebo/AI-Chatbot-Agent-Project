@@ -18,8 +18,6 @@ Organizations need intelligent conversational solutions that can understand natu
 
 This project addresses these challenges by integrating Python with OpenAI LLM technology to build an AI-powered chatbot capable of processing prompts and generating intelligent responses.
 
-## Project Objectives
-
 ### Project Objectives
 
 - Develop an AI-powered conversational chatbot using Python and OpenAI.
@@ -35,6 +33,10 @@ This project addresses these challenges by integrating Python with OpenAI LLM te
 - Establish a scalable foundation for future AI agent development.
 
 ### Solution Architecture
+
+
+
+
 
 #### The architecture consists of three major layers:
 
