@@ -77,7 +77,7 @@ The chatbot displays the generated answer to the user, completing the conversati
 ### Technology Stack
 
 | Technology | Purpose |
-=======================
+|------------|---------|
 | Python | Application development and orchestration
 
 | OpenAI API | Integration with the AI language model
