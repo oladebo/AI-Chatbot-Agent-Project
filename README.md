@@ -163,3 +163,8 @@ Project Category: Artificial Intelligence | Generative AI | AI Agent Development
 
 Core Technologies: Python | OpenAI API | Large Language Models (LLMs)
 
+Thanks
+
+Oladebo Ayanniyi
+Data Engineer
+
